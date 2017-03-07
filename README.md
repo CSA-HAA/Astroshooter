@@ -1,6 +1,6 @@
 # Astroshooter
 
-Using the left and right arrow keys, or the a and d keys, move your spaceship to the right and left. Avoid getting hit by an aseteroid or you will lose a life and a 100 points. Use the spacebar to fire a laser to destroy the asteroids. If an asteroid goes past your spaceship you lose a 100 points. Successfully destroy an asteroid to get a 100 points. After a certain amount of time an addiotional life will be gained if player survives that long. At the end of the game highscores will be given with the players place in the high score.
+Using the left and right arrow keys, or the a and d keys, move your spaceship to the left and right. Avoid getting hit by an aseteroid or you will lose a life and a 100 points. Use the spacebar to fire a laser to destroy the asteroids. If an asteroid goes past your spaceship you lose a 100 points. Successfully destroy an asteroid to get a 100 points. After a certain amount of time an addiotional life will be gained if player survives that long. At the end of the game highscores will be given with the players place in the high score.
 
 History:
 First version started with background, spaceship, a score count, lives, movement system, leveling system, collison detection, shooting system, gameover screen, background music, and sound effects.
