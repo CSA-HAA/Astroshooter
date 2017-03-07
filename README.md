@@ -1,16 +1,16 @@
 # Astroshooter
 
-"""Creates a game where player shoots asteroid and gets points
-If asteroid goes past player player loses points
-If player and asteroid touch, a life is lost
-If all 3 lives are lost game is over
-Has:
-Background music
-Sound effects
-Collision detection
-Space background and spaceship
-Life gain after certain time
-Start Screen
-Version .3
+Using the left and right arrow keys, or the a and d keys, move your spaceship to the right and left. Avoid getting hit by an aseteroid or you will lose a life and a 100 points. Use the spacebar to fire a laser to destroy the asteroids. If an asteroid goes past your spaceship you lose a 100 points. Successfully destroy an asteroid to get a 100 points. After a certain amount of time an addiotional life will be gained if player survives that long. At the end of the game highscores will be given with the players place in the high score.
+
+History:
+First version started with background, spaceship, a score count, lives, movement system, leveling system, collison detection, shooting system, gameover screen, background music, and sound effects.
+
+Second version creates a file saving all highscores and displays top 10 at the end of the game. Modifies game over screen so game over is written at top and scores are centered.
+
+Third version switches to new background music at gameover screen and makes a sound different from an explosion upon spaceship derstruction.
+
+Fourth version adds player placement in highscores, shlows down asteroids, makes collision detection more accurate, adds a life after a certain amount of time has passed, and adds a start screen that displays name of the game, highschore of the game, and start button.
+
+Version .4
 March 3rd, 2017
-Author: Hamzah Ahmed"""
+Author: Hamzah Ahmed
