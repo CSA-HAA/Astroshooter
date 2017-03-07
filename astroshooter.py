@@ -23,7 +23,7 @@ Collision detection
 Space background and spaceship
 Life gain after certain time
 Start Screen
-Version .3
+Version .4
 March 3rd, 2017
 Author: Hamzah Ahmed
 """
