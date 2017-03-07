@@ -24,7 +24,7 @@ Space background and spaceship
 Life gain after certain time
 Start Screen
 Version .3
-3/3/2017
+March 3rd, 2017
 Author: Hamzah Ahmed
 """
 
